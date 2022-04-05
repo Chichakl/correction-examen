@@ -1,0 +1,24 @@
+div.page{
+    text-align: center;
+}
+div.trait1{
+    border: solid grey 2px;
+    margin-bottom: 100px;
+}
+table{
+   
+    margin : 10px auto 40px auto;
+    
+}
+div.champs{
+ margin-bottom: 30px;
+}
+label{
+    font-weight: bold;
+}
+button{
+    font-weight: bold;
+}
+th{
+    padding-left: 100px;
+}
